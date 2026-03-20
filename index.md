@@ -1,5 +1,3 @@
-# Dr. Christiane Klein
-
 Walter-Benjamin Fellow in mathematical physics
 
 ## Contact
@@ -13,7 +11,7 @@ North Yorkshire, United Kingdom
 Email: christiane.klein[at]york.ac.uk
 
 ## Biography
-I completed my Bachelor’s and Master’s degree in Physics from the Ruprecht-Karls University Heidelberg, including an ERASMUS exchange semester at the University of Helsinki. Afterwards, I moved to Leipzig, where I obtained my PhD in physics at the University of Leipzig under the supervision of Prof. Hollands. This was followed by a postdoc position at Institut Fourier of the University Grenoble-Alpes, before I joined the department as a Walter-Benjamin Fellow.
+I completed my Bachelor’s and Master’s degree in Physics at the Ruprecht-Karls University Heidelberg, including an ERASMUS exchange semester at the University of Helsinki. Afterwards, I moved to Leipzig, where I obtained my PhD in physics at the University of Leipzig under the supervision of Prof. Hollands. This was followed by a postdoc position at the Institut Fourier of the University Grenoble-Alpes, before I joined the Department of Mathematics of the University of York as a Walter-Benjamin Fellow.
 
 ## Research Interests
 
